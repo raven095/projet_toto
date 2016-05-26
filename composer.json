@@ -1,0 +1,7 @@
+{
+    "name": "marc/projet_toto",
+    "description": "Liste les etudiants des sessions de formation de ESCH/BELVAL",
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}
